@@ -15,11 +15,17 @@ A bachelor's degree in computer science or software engineering is often require
 #### Technical and non-technical skills:
 Video game developers should possess a certain amount of creativity to make games that are interesting. They should be well versed in 2D and 3D design to create and implement game assets. They should also be versed in programming languages, such as Java, C++, Python, Swift, etc. Game developers should also have necessary problem solving skills when debugging or optimizing their code, as well as organizational skills as they are required to collaborate with other developers.
 
+![300px-Python-logo-notext svg](https://user-images.githubusercontent.com/82901825/116448410-1685f200-a827-11eb-924d-979367887c6d.png)
+
 #### Salary range:
 The average salary in Canada for a video game developer is around $60 000. It can range from $40 000 to $110 000
 ___
 ### Standard Education
 Lets look at a university program that will get us that bachelor's in computer science. For this section, we will be looking at [University of Waterloo's computer science program](https://uwaterloo.ca/future-students/programs/computer-science).
+![1519896484763](https://user-images.githubusercontent.com/82901825/116447175-afb40900-a825-11eb-8f73-e1d048165344.png)
+
+<img src="https://user-images.githubusercontent.com/82901825/116447175-afb40900-a825-11eb-8f73-e1d048165344.png" width="100" height="100">
+
 #### Degree requirement:
 Students need to complete 20.0 units with a minimum average of 60%. Students also need to take 2 communication skills courses. More specific details can be found in [this link](http://ugradcalendar.uwaterloo.ca/page/MATH-Degree-Requirements-for-Math-students#Table%20I).
 For computer science students, they must also meet requirements for courses, which can be found [here](http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1).
