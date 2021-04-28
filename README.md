@@ -39,3 +39,8 @@ Here is an example of what your first year might look like:
 #### Program length:
 The program can take 4 years to complete. 8 full time terms are required to complete the program (2 per year).
 ___
+### Experiential Learning
+Something that is important to companies is your portfolio. It should contain projects you have done to show off what you might be good at. One of the ways for you to apply your knowledge, gain experience and build up your portfolio is to start developing games on your own. Start small, with something more manageable in order to ensure that you can stay motivated to keep going.
+
+One way to get work experience is to get an internship at a video game studio. Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
+___
