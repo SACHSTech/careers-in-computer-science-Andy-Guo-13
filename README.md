@@ -21,7 +21,9 @@ Video game developers should possess a certain amount of creativity to make game
 
 #### Salary range:
 The average salary in Canada for a video game developer is around $60 000. It can range from $40 000 to $110 000
+
 ___
+
 ### Standard Education
 Lets look at a university program that will get us that bachelor's in computer science. For this section, we will be looking at [University of Waterloo's computer science program](https://uwaterloo.ca/future-students/programs/computer-science).
 
@@ -45,14 +47,18 @@ Here is an example of what your first year might look like:
 
 #### Program length:
 The program can take 4 years to complete. 8 full time terms are required to complete the program (2 per year).
+
 ___
+
 ### Experiential Learning
 Something that is important to companies is your portfolio. It should contain projects you have done to show off what you might be good at. One of the ways for you to apply your knowledge, gain experience and build up your portfolio is to start developing games on your own. Start small, with something more manageable in order to ensure that you can stay motivated to keep going.
 
 One way to get work experience is to get an internship at a video game studio. Even if they don't have a specific internship program, they might be open to the idea of an inexpensive part time worker to help them out.
 
 Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
+
 ___
+
 ### Real job
 The following are examples of jobs that you may come accross in the industry.
 #### [Junior level position:](https://www.workopolis.com/jobsearch/find-jobs?ak=Video+game+developer+&lg=en&pn=2&job=24WgpJmLfcE37JTUPQbX0dQBOi7SB0ni4otrpgM7VggW3DgeUL7jNQ)
@@ -121,3 +127,18 @@ Requirements:
 * An understanding and passion for video games
 * Predilection and the ability to take on research and self-education
 * Authorized to work in Canada and can work full-time at our studio in Toronto
+
+___
+
+### Work cited
+“Average Video Game Programmer Salary in Canada.” PayScale, [www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary](www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary).
+
+Bay, Jason W., et al. “How To Get Into Game Development: 10 Proven Ways to Break Into the Game Industry” Game Industry Career Guide, [www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/](www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/).
+
+“Computer Science.” Undergraduate Programs, 6 Apr. 2021, [uwaterloo.ca/future-students/programs/computer-science](uwaterloo.ca/future-students/programs/computer-science).
+
+“Game Developer Job Description.” JobHero, 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer](www.jobhero.com/job-description/examples/computer-software/game-developer).
+
+Gamedesignlounge. “26 Aug Becoming a Game Developer Without a Degree.” Game Design Lounge Video Game Level Character Story Design, 26 Aug. 1970, [gamedesignlounge.com/game-developer-without-a-degree](gamedesignlounge.com/game-developer-without-a-degree).
+
+MasterClass. “How to Become a Video Game Developer - 2021.” MasterClass, MasterClass, 8 Nov. 2020, [www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer](www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer).
