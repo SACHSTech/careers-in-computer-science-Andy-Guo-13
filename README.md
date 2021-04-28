@@ -2,6 +2,7 @@
 # Careers in Computer Science
 ## Video Game Developer
 ![402px-C_Hello_World_Program](https://user-images.githubusercontent.com/82901825/116451260-3ff44d00-a82a-11eb-9278-a462858bdc4f.png)
+
 ### The Basics
 In a nutshell, a video game developer is someone who creates visuals and writes code for video games. Their responsibilities include:
 * Planning the game: they plan the storyline, characters, progression, etc. They will break up the project into smaller bits and create schedules
@@ -131,14 +132,24 @@ Requirements:
 ___
 
 ### Work cited
-“Average Video Game Programmer Salary in Canada.” PayScale, [www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary](www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary).
+“Average Video Game Programmer Salary in Canada.” *PayScale*, [www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary](www.payscale.com/research/CA/Job=Video_Game_Programmer/Salary).
 
-Bay, Jason W., et al. “How To Get Into Game Development: 10 Proven Ways to Break Into the Game Industry” Game Industry Career Guide, [www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/](www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/).
+Bay, Jason W., et al. “How To Get Into Game Development: 10 Proven Ways to Break Into the Game Industry” *Game Industry Career Guide*, [www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/](www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/).
 
-“Computer Science.” Undergraduate Programs, 6 Apr. 2021, [uwaterloo.ca/future-students/programs/computer-science](uwaterloo.ca/future-students/programs/computer-science).
+*C Hello World Program*. 31 Aug. 2015, [upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/402px-C_Hello_World_Program.png](upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/402px-C_Hello_World_Program.png). Accessed 28 Apr. 2021. 
 
-“Game Developer Job Description.” JobHero, 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer](www.jobhero.com/job-description/examples/computer-software/game-developer).
+“Computer Science.” *Undergraduate Programs*, 6 Apr. 2021, [uwaterloo.ca/future-students/programs/computer-science](uwaterloo.ca/future-students/programs/computer-science).
 
-Gamedesignlounge. “26 Aug Becoming a Game Developer Without a Degree.” Game Design Lounge Video Game Level Character Story Design, 26 Aug. 1970, [gamedesignlounge.com/game-developer-without-a-degree](gamedesignlounge.com/game-developer-without-a-degree).
+“Game Developer Job Description.” *JobHero*, 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer](www.jobhero.com/job-description/examples/computer-software/game-developer).
 
-MasterClass. “How to Become a Video Game Developer - 2021.” MasterClass, MasterClass, 8 Nov. 2020, [www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer](www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer).
+Gamedesignlounge. “26 Aug Becoming a Game Developer Without a Degree.” *Game Design Lounge Video Game Level Character Story Design*, 26 Aug. 1970, [gamedesignlounge.com/game-developer-without-a-degree](gamedesignlounge.com/game-developer-without-a-degree).
+
+*Java*. 11 June 2020, [chamikakasun.medium.com/how-to-manage-multiple-java-version-in-macos-e5421345f6d0](chamikakasun.medium.com/how-to-manage-multiple-java-version-in-macos-e5421345f6d0).
+
+Kratz, Jeremy. *C++ Logo*. 30 Jan. 2017, [en.wikipedia.org/wiki/C%2B%2B](en.wikipedia.org/wiki/C%2B%2B). 
+
+MasterClass. “How to Become a Video Game Developer - 2021.” *MasterClass*, MasterClass, 8 Nov. 2020, [www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer](www.masterclass.com/articles/how-to-become-a-video-game-developer#what-is-a-video-game-developer).
+
+*Python*. 6 Aug. 2008, [en.wikiversity.org/wiki/Python_Concepts](en.wikiversity.org/wiki/Python_Concepts). 
+
+*University of Waterloo Logo*. [uwaterloo.ca/engineering/about/our-history/timelines](uwaterloo.ca/engineering/about/our-history/timelines). 
