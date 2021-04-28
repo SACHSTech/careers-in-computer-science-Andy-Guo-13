@@ -1,6 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4667591&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
 ## Video Game Developer
+![402px-C_Hello_World_Program](https://user-images.githubusercontent.com/82901825/116451260-3ff44d00-a82a-11eb-9278-a462858bdc4f.png)
 ### The Basics
 In a nutshell, a video game developer is someone who creates visuals and writes code for video games. Their responsibilities include:
 * Planning the game: they plan the storyline, characters, progression, etc. They will break up the project into smaller bits and create schedules
