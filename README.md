@@ -47,3 +47,70 @@ One way to get work experience is to get an internship at a video game studio. E
 Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
 ___
 ### Real job
+The following are examples of jobs that you may come accross in the industry.
+#### [Junior level position:](https://www.workopolis.com/jobsearch/find-jobs?ak=Video+game+developer+&lg=en&pn=2&job=24WgpJmLfcE37JTUPQbX0dQBOi7SB0ni4otrpgM7VggW3DgeUL7jNQ)
+
+Salary: Up to $40 000 a year
+
+City: Burnaby BC
+
+Job description:
+* Collaborate with Senior Designers and Product Owners to develop features that create engaging player experiences. This includes the creation of imaginative design documents, participating in brainstorming sessions and tuning and balancing of game features.
+* Communicate with programmers and artists to ensure proper implementation of game features.
+* Create flow documents that detail all user interface components.
+* Maintain current knowledge about mobile game trends and best practices.
+* Analyze existing mobile games and prepare deconstruction documents and assessments.
+* Create and communicate progress reports and review materials.
+* Define & analyze KPI’s to improve game performance.
+* Continually play games in development to find bugs and potential game improvements.
+
+Requirements:
+* Passionate about mobile games of all genres.
+* Great imagination with strong design sensibilities.
+* Excellent oral and written communication skills.
+* Strong analytic skills.
+* Self-driven with the ability to take responsibility for your own work.
+* Ability to work in a team environment.
+* Game design graduate with 1+ years of mobile games design experience preferred.
+
+#### [Mid level position:](https://www.workopolis.com/jobsearch/find-jobs?ak=clapfoot&l=&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)
+
+Salary: $73 00 - $100 000
+
+City: Toronto ON
+
+Job description:
+* We are looking for a skilled Backend Programmer to join the team to develop and operate innovative massive multiplayer online games for PC. You must be comfortable maintaining mission critical systems and excited about working in a tight knit, indie game team environment.
+You will be working on Foxhole and other future projects. Foxhole is a massively multiplayer game where you will work with hundreds of players to shape the outcome of a persistent online war. Every individual soldier is a player that contributes to the war effort through logistics, base building, reconnaissance, combat, and more.
+
+Requirements:
+* A minimum of 3 years in a live services developer role for an online application or game
+* Experience with Java, C#, or equivalent programming language
+* Experience with Windows Server provisioning and management
+* Expertise with cloud services platforms like AWS (EC2, RDS, S3)
+* Experience with database development and management
+* Experience developing tools with major scripting languages (Python, Node.js, etc)
+* Experience developing internal web tools for monitoring and maintaining a live service application or game
+* Familiar with continuous integration tools like Jenkins/Ansible or equivalents
+* Familiar with version control systems like Perforce or equivalent
+* Ability to operate mission critical systems with time/data sensitive requirements
+* Ability to take on multiple roles and adapt to changing project conditions
+* Ability to take criticism with a positive attitude and able to work well within a tight knit team environment
+
+#### [Senior level position:](https://www.workopolis.com/jobsearch/find-jobs?ak=Video+game+developer+&l=&job=hATbqswfzMC6hYqEaJyN1iRBsRtWwyzsTM6SmJeycTsT6Rciec7y-g)
+
+Salary: $79 000 - $110 000
+
+City: Toronto ON
+
+Job description:
+* As a senior game programmer you will be responsible for a wide range of tasks and should expect a variety of issues and challenges to tackle across various areas of the game. This will include the implementation of new features as well as debugging and optimizing existing ones. In addition the role requires excellent communication skills as you will be collaborating closely with team members from other departments.
+
+Requirements:
+* At least 5 years professional video game programming experience
+* C++ proficiency
+* Strong interpersonal communication skills.
+* High degree of self-motivation and initiative-taking
+* An understanding and passion for video games
+* Predilection and the ability to take on research and self-education
+* Authorized to work in Canada and can work full-time at our studio in Toronto
