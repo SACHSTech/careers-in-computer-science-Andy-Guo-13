@@ -16,7 +16,7 @@ A bachelor's degree in computer science or software engineering is often require
 Video game developers should possess a certain amount of creativity to make games that are interesting. They should be well versed in 2D and 3D design to create and implement game assets. They should also be versed in programming languages, such as Java, C++, Python, Swift, etc. Game developers should also have necessary problem solving skills when debugging or optimizing their code, as well as organizational skills as they are required to collaborate with other developers.
 
 #### Salary range:
-The average salary in Canada for a video game developer is around $60 000. 
+The average salary in Canada for a video game developer is around $60 000. It can range from $40 000 to $110 000
 ___
 ### Standard Education
 Lets look at a university program that will get us that bachelor's in computer science. For this section, we will be looking at [University of Waterloo's computer science program](https://uwaterloo.ca/future-students/programs/computer-science).
@@ -42,5 +42,8 @@ ___
 ### Experiential Learning
 Something that is important to companies is your portfolio. It should contain projects you have done to show off what you might be good at. One of the ways for you to apply your knowledge, gain experience and build up your portfolio is to start developing games on your own. Start small, with something more manageable in order to ensure that you can stay motivated to keep going.
 
-One way to get work experience is to get an internship at a video game studio. Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
+One way to get work experience is to get an internship at a video game studio. Even if they don't have a specific internship program, they might be open to the idea of an inexpensive part time worker to help them out.
+
+Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
 ___
+### Real job
