@@ -15,7 +15,7 @@ A bachelor's degree in computer science or software engineering is often require
 #### Technical and non-technical skills:
 Video game developers should possess a certain amount of creativity to make games that are interesting. They should be well versed in 2D and 3D design to create and implement game assets. They should also be versed in programming languages, such as Java, C++, Python, Swift, etc. Game developers should also have necessary problem solving skills when debugging or optimizing their code, as well as organizational skills as they are required to collaborate with other developers.
 
-![300px-Python-logo-notext svg](https://user-images.githubusercontent.com/82901825/116448410-1685f200-a827-11eb-924d-979367887c6d.png)
+<img src="https://user-images.githubusercontent.com/82901825/116448410-1685f200-a827-11eb-924d-979367887c6d.png" width="100" height="100">
 
 #### Salary range:
 The average salary in Canada for a video game developer is around $60 000. It can range from $40 000 to $110 000
