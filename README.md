@@ -5,23 +5,23 @@
 
 ### The Basics
 In a nutshell, a video game developer is someone who creates visuals and writes code for video games. Their responsibilities include:
-* Planning the game: they plan the storyline, characters, progression, etc. They will break up the project into smaller bits and create schedules
-* Design the game: coordinate with visual designers, they will create graphics for the game
-* Write code: to implement the game logic to allow players to interact with the game
-* Testing and debugging: this happens during the development and after the release of the game. Developers will ensure the game is working without bugs and handle requests to fix performance or reliability issues
-* Maintain game project: making improvements to the game, perhaps updating levels or characters, etc.
+* **Planning the game**: they plan the storyline, characters, progression, etc. They will break up the project into smaller bits and create schedules
+* **Design the game**: coordinate with visual designers, they will create graphics for the game
+* **Write code**: to implement the game logic to allow players to interact with the game
+* **Testing and debugging**: this happens during the development and after the release of the game. Developers will ensure the game is working without bugs and handle requests to fix performance or reliability issues
+* **Maintain game project**: making improvements to the game, perhaps updating levels or characters, etc.
 
 #### Required education:
-A bachelor's degree in computer science or software engineering is often required *but* its not mandatory.
+A bachelor's degree in **computer science** or **software engineering** is often required *but* its not mandatory.
 
 #### Technical and non-technical skills:
-Video game developers should possess a certain amount of creativity to make games that are interesting. They should be well versed in 2D and 3D design to create and implement game assets. They should also be versed in programming languages, such as Java, C++, Python, Swift, etc. Game developers should also have necessary problem solving skills when debugging or optimizing their code, as well as organizational skills as they are required to collaborate with other developers.
+Video game developers should possess a certain amount of **creativity** to make games that are interesting. They should be well versed in **2D and 3D design** to create and implement game assets. They should also be **versed in programming languages**, such as Java, C++, Python, Swift, etc. Game developers should also have necessary **problem solving skills** when debugging or optimizing their code, as well as **organizational skills** as they are required to collaborate with other developers.
 
 |<img src="https://user-images.githubusercontent.com/82901825/116448410-1685f200-a827-11eb-924d-979367887c6d.png" width="100" height="100">|<img src="https://user-images.githubusercontent.com/82901825/116449423-294cf680-a828-11eb-90cd-fcf08bdcd87f.png" width="179" height="100">|<img src="https://user-images.githubusercontent.com/82901825/116450488-5bab2380-a829-11eb-88f1-06c9c8b94a1a.png" width="100" height="100">|
 |---|---|---|
 
 #### Salary range:
-The average salary in Canada for a video game developer is around $60 000. It can range from $40 000 to $110 000
+The average salary in Canada for a video game developer is around **$60 000**. It can range from **$40 000 to $110 000**.
 
 ___
 
@@ -31,9 +31,9 @@ Lets look at a university program that will get us that bachelor's in computer s
 <img src="https://user-images.githubusercontent.com/82901825/116447175-afb40900-a825-11eb-8f73-e1d048165344.png" width="100" height="100">
 
 #### Degree requirement:
-Students need to complete 20.0 units with a minimum average of 60%. Students also need to take 2 communication skills courses. More specific details can be found in [this link](http://ugradcalendar.uwaterloo.ca/page/MATH-Degree-Requirements-for-Math-students#Table%20I).
+Students need to complete **20.0 units** with a minimum average of **60%**. Students also need to take **2 communication skills** courses. More specific details can be found in [this link](http://ugradcalendar.uwaterloo.ca/page/MATH-Degree-Requirements-for-Math-students#Table%20I).
 For computer science students, they must also meet requirements for courses, which can be found [here](http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1).
-In general, a student enrolled in computer science can expect to take mostly CS and MATH courses.
+In general, a student enrolled in computer science can expect to take mostly **CS and MATH** courses.
 #### Example first year:
 Here is an example of what your first year might look like:
 
@@ -47,16 +47,16 @@ Here is an example of what your first year might look like:
 > The bottom course for each of the terms can be anything. I put a physics and music course because these are courses I would enjoy taking. Additionally, these two courses count towards the 5.0 non-math units. I also put both communication skills courses, one in each term to get it out of the way quickly.
 
 #### Program length:
-The program can take 4 years to complete. 8 full time terms are required to complete the program (2 per year).
+The program can take **4 years** to complete. 8 full time terms are required to complete the program (2 terms per year).
 
 ___
 
 ### Experiential Learning
-Something that is important to companies is your portfolio. It should contain projects you have done to show off what you might be good at. One of the ways for you to apply your knowledge, gain experience and build up your portfolio is to start developing games on your own. Start small, with something more manageable in order to ensure that you can stay motivated to keep going.
+Something that is important to companies is your **portfolio**. It should contain projects you have done to show off what you might be good at. One of the ways for you to apply your knowledge, gain experience and build up your portfolio is to start developing games on your own. Start small, with something more manageable in order to ensure that you can stay motivated to keep going.
 
-One way to get work experience is to get an internship at a video game studio. Even if they don't have a specific internship program, they might be open to the idea of an inexpensive part time worker to help them out.
+One way to get work experience is to get an **internship at a video game studio**. Even if they don't have a specific internship program, they might be open to the idea of an inexpensive part time worker to help them out.
 
-Another job one could consider is as a game tester, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
+Another job one could consider is as a **game tester**, which usually doesn’t require a degree or any sort of specialized training. You could use that opportunity to network within the industry, which might provide you better opportunities elsewhere.
 
 ___
 
