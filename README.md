@@ -22,7 +22,6 @@ The average salary in Canada for a video game developer is around $60 000. It ca
 ___
 ### Standard Education
 Lets look at a university program that will get us that bachelor's in computer science. For this section, we will be looking at [University of Waterloo's computer science program](https://uwaterloo.ca/future-students/programs/computer-science).
-![1519896484763](https://user-images.githubusercontent.com/82901825/116447175-afb40900-a825-11eb-8f73-e1d048165344.png)
 
 <img src="https://user-images.githubusercontent.com/82901825/116447175-afb40900-a825-11eb-8f73-e1d048165344.png" width="100" height="100">
 
